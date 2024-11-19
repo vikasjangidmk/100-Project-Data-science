@@ -1,0 +1,3 @@
+numpy==1.23.5  # For numerical operations
+tensorflow==2.13.0  # For deep learning models
+matplotlib==3.7.0  # For plotting
